@@ -1,2 +1,2 @@
-# student-course-hub
+# student
 CTEC2712 Web Application Project
